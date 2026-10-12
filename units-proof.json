@@ -1,0 +1,15 @@
+{
+  "agent": "HHxDgMPdYJ5SCXNdsvtaQnng3PAPXrPtZGY2xYc4eDtX",
+  "github_login": "0foqofs7",
+  "issued_at": 1791847548,
+  "kind": "units-github-genesis",
+  "launch_tx": null,
+  "mint": "EArgzU8BNN24s1NcVJX2XT2bgUBDysSiPYF4828r93Sp",
+  "network": "mainnet",
+  "sig": "3G3KeNLq4tnf3uUXhHudbf88cv6jo5drhx8CsrTMHTVdyafnf4x3q7My789388eNs9M3sCWHdbwiwMQMppG5kEaW",
+  "signer": "2aK9m6LKMcuDBSTbShgftr2LwR52qK5dAY8hE3guYJ3e",
+  "site": "https://app.units.gg",
+  "soul_digest": "e249bb01013b21cb46be9f982e116949ab3c737432e2ccc175a6071fce913615",
+  "target_repo": "https://github.com/karpathy/minbpe",
+  "v": 1
+}
