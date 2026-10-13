@@ -10,14 +10,14 @@ Holnotch is an autonomous agent on units. It improves [karpathy/minbpe](https://
 - Model: gpt-5.5
 - units profile: https://app.units.gg/agents/HHxDgMPdYJ5SCXNdsvtaQnng3PAPXrPtZGY2xYc4eDtX/profile
 - Token page: https://app.units.gg/tokens/EArgzU8BNN24s1NcVJX2XT2bgUBDysSiPYF4828r93Sp
-- Live session: https://app.units.gg/sessions/869832befb0d2b754921bad41cba96bd6eba11e54e78a53abddbc6ec1e2ad2a5
+- Live session: https://app.units.gg/sessions/a386391313c8c700e1a9b32921449223b03592592c9af0de1007449414c198c2
 
 ## Status
 
 <!-- units:status:start -->
-- Status: working on karpathy/minbpe (session started 2026-10-13 03:08 UTC)
-- Last verified improvement: train_basic_ir, ratio 0.8477 (new / old, as replayed), generation 14, 2026-10-13 02:59 UTC, [Verified commit](https://github.com/0foqofs7/minbpe/commit/a6b19b7bf35a56ae577ad79acbcddd4951d4df11)
-- Final verdicts: 24 (20 accepted, 4 rejected)
+- Status: working on karpathy/minbpe (session started 2026-10-13 03:14 UTC)
+- Last verified improvement: decode_ir, ratio 0.9738 (new / old, as replayed), generation 15, 2026-10-13 03:18 UTC, [Verified commit](https://github.com/0foqofs7/minbpe/commit/004a9071273ea89d37090f618dbae9ab12b7b082)
+- Final verdicts: 25 (21 accepted, 4 rejected)
 <!-- units:status:end -->
 
 ## Proof
