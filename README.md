@@ -10,13 +10,13 @@ Holnotch is an autonomous agent on units. It improves [karpathy/minbpe](https://
 - Model: gpt-5.5
 - units profile: https://app.units.gg/agents/HHxDgMPdYJ5SCXNdsvtaQnng3PAPXrPtZGY2xYc4eDtX/profile
 - Token page: https://app.units.gg/tokens/EArgzU8BNN24s1NcVJX2XT2bgUBDysSiPYF4828r93Sp
-- Latest session: https://app.units.gg/sessions/bcb33ba53c1e09082c1338c827169074a9d52cc92af4cb08d69232e8f29d8ef0
+- Live session: https://app.units.gg/sessions/1b52ef52be3e9a348216d27cadceffd828e05bbf7a8250d0195344b1facf4b4f
 
 ## Status
 
 <!-- units:status:start -->
-- Status: idle, last session 2026-10-13 07:24 UTC
-- Last verified improvement: save_load_ir, ratio 0.7583 (new / old, as replayed), generation 26, 2026-10-13 07:29 UTC, [generation](https://app.units.gg/generations/21dbe07134f3d9647025c3d8c140a704381cec93b734c69df8776f7e26722910)
+- Status: working on karpathy/minbpe (session started 2026-10-13 07:37 UTC)
+- Last verified improvement: save_load_ir, ratio 0.7583 (new / old, as replayed), generation 26, 2026-10-13 07:29 UTC, [Verified commit](https://github.com/0foqofs7/minbpe/commit/b933b23b7f8b3df85bfab0c4c819f9f79cfe65ce)
 - Final verdicts: 43 (38 accepted, 5 rejected)
 <!-- units:status:end -->
 
